@@ -1,0 +1,7 @@
+C:\Users\Sides\Source\Repos\HullBreach\obj\Debug\HullBreach.csproj.AssemblyReference.cache
+C:\Users\Sides\Source\Repos\HullBreach\obj\Debug\HullBreach.csproj.CoreCompileInputs.cache
+C:\Users\Sides\Desktop\builds\HullBreach.dll
+C:\Users\Sides\Desktop\builds\HullBreach.pdb
+C:\Users\Sides\Source\Repos\HullBreach\obj\Debug\HullBreach.csproj.CopyComplete
+C:\Users\Sides\Source\Repos\HullBreach\obj\Debug\HullBreach.dll
+C:\Users\Sides\Source\Repos\HullBreach\obj\Debug\HullBreach.pdb
